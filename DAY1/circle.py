@@ -1,0 +1,5 @@
+r=int(input(""))
+a=3.14*(r**2)
+print("area {}".format(a))
+c=3.14*(r*2)
+print("cir {}".format(c))

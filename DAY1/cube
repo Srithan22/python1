@@ -1,0 +1,3 @@
+r=int(input("enter side"))
+a=4*r**2
+print("volume {}".format(a))

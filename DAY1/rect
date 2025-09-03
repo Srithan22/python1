@@ -1,0 +1,6 @@
+l=int(input("enter length"))
+b=int(input("enter breadth2"))
+a=l*b
+print("area {}".format(a))
+c=2*l*b
+print("cir {}".format(c))
